@@ -6,10 +6,8 @@
     </div>
 
 <h1 align=center>
-       Detail-Oriented Full Stack Developer
+       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F72C9A&center=true&vCenter=true&width=650&lines=Senior+full+stack+developer!;Detail+oriented+front-end+developer!;Eager+to+learn+new+technologies!" alt="Typing SVG" /></a>
     </h1>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F72C9A&center=true&vCenter=true&width=650&lines=Senior+full+stack+developer!;Detail+oriented+front-end+developer!;Eager+to+learn+new+technologies!" alt="Typing SVG" /></a>
 
 Greetings!
 My name is Alejandro and I'm a Senior Full Stack Developer with rich experience.

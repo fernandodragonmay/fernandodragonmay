@@ -1,71 +1,33 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/alejandro411">Alejandro M L</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Badri Vishal</a>'s Profile 👋</h1>
 </p>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
-</p>
-<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<div align=center>
+          <img alt="gif" align="center" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/git.gif" width=300 height=300/>
+    </div>
 
-#### A little more about me
-```javascript
-const badri = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
-  }
-}
-```
+<h1 align=center>
+       Detail-Oriented Full Stack Developer
+    </h1>
 
-<ul>
-  <li>👋 Hi, I’m @Alejandro</li>
-  <li>❤️ I love Creating websites and Programming in JavaScript.</li>
-  <li>💼 I'm a detail oriented Full Stack developer.</li>
-  <li>🧐 I specialized in frontend development.</li>
-</ul>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F72C9A&center=true&vCenter=true&width=650&lines=Senior+full+stack+developer!;Detail+oriented+front-end+developer!;Eager+to+learn+new+technologies!" alt="Typing SVG" /></a>
 
-#### My GitHub Data :octocat:
-> 🏆 420+ Contributions in the Year 2021
- > 
-> 📜 400+ Commits on GitHub
- > 
-> 🔑 200+ Contribution in Private Repos
- > 
+Greetings!
+My name is Alejandro and I'm a Senior Full Stack Developer with rich experience.
 
-#### Popular Projects
-<a href="https://github.com/MrBlueBird2/to-do-list-flask">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
-</a>    
-<a href="https://github.com/mrbluebird2/mrbluebird2.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
-</a>
+Skills:
 
-#### Trophies
+- Front-end technologies: HTML, CSS, JavaScript
+- Front-end frameworks: React, Angular, Vue.js
+- Back-end technologies: Node.js, Ruby on Rails, Nest.js, Laravel
+- Database technologies: MySQL, MongoDB, PostgreSQL
+- UI frameworks: Tailwind CSS, BootStrap, Material UI, Chakra UI
+- Version control systems: Git, SVN
+- Cloud services: AWS, Google Cloud Platform, Microsoft Azure
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrBlueBird2&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
+I take a collaborative approach to project management, working closely with clients to understand their goals and delivering solutions that exceed their expectations.
 
-#### Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrBlueBird2&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrBlueBird2&layout=compact&theme=onedark" />
-</a>
-<br />
-<br />
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedark" alt="MrBlueBird2" />
-</p>
+<img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
 
-#### Contribution Graph
-[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=MrBlueBird2&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
-<!---
-MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>
+
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" /> <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" /> <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" /> <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg" /> <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gatsby/gatsby-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>

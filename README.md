@@ -1,12 +1,12 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Badri Vishal</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Alejandro M L</a>'s Profile 👋</h1>
 </p>
 <div align=center>
-          <img alt="gif" align="center" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/git.gif" width=300 height=300/>
-    </div>
+   <img alt="gif" align="center" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/git.gif" width=300 height=300/>
+</div>
 
 <h1 align=center>
-       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F72C9A&center=true&vCenter=true&width=650&lines=Senior+full+stack+developer!;Detail+oriented+front-end+developer!;Eager+to+learn+new+technologies!" alt="Typing SVG" /></a>
+       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=48&pause=1000&color=F72C9A&center=true&vCenter=true&width=1050&lines=Senior+full+stack+developer!;Detail+oriented+front-end+developer!;Eager+to+learn+new+technologies!" alt="Typing SVG" /></a>
     </h1>
 
 Greetings!

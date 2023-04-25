@@ -14,7 +14,7 @@ My name is Alejandro and I'm a Senior Full Stack Developer with rich experience.
 
 Skills:
 
-- Front-end technologies: HTML, CSS, JavaScript
+- Front-end technologies: HTML, CSS, JavaScript, TypeScript
 - Front-end frameworks: React, Angular, Vue.js
 - Back-end technologies: Node.js, Ruby on Rails, Nest.js, Laravel
 - Database technologies: MySQL, MongoDB, PostgreSQL
@@ -32,6 +32,7 @@ I take a collaborative approach to project management, working closely with clie
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" /> 
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" /> 
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" />
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" />
@@ -43,6 +44,7 @@ I take a collaborative approach to project management, working closely with clie
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" /> 
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/materialui/materialui-original.svg " /> 
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg"/>    
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /> 
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ruby/ruby-original.svg"/>    
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"/> 

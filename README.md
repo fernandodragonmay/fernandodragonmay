@@ -44,7 +44,7 @@ I take a collaborative approach to project management, working closely with clie
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" /> 
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/materialui/materialui-original.svg " /> 
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg"/>    
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /> 
+<img height=50 src="https://laravel.com/img/logomark.min.svg" /> 
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ruby/ruby-original.svg"/>    
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"/> 

@@ -27,7 +27,7 @@ I take a collaborative approach to project management, working closely with clie
 <img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="align:center; justify-content:center; width:80%; text-align:center;">
+<div align="center" width="80%">
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 

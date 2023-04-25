@@ -28,4 +28,23 @@ I take a collaborative approach to project management, working closely with clie
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" /> <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" /> <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" /> <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg" /> <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gatsby/gatsby-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" /> 
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" />
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" />
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" />
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg" />
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gatsby/gatsby-original.svg" /> 
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ionic/ionic-original.svg" /> 
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg"/>     
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" /> 
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/materialui/materialui-original.svg " /> 
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg"/>    
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ruby/ruby-original.svg"/>    
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"/> 
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> 
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> 
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>

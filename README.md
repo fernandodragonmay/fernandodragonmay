@@ -16,6 +16,7 @@ Skills:
 
 - Front-end technologies: HTML, CSS, JavaScript, TypeScript
 - Front-end frameworks: React, Angular, Vue.js
+- Mobile App technologies: React Native, Ionic (Angular, React, Vue), Flutter
 - Back-end technologies: Node.js, Ruby on Rails, Nest.js, Laravel
 - Database technologies: MySQL, MongoDB, PostgreSQL
 - UI frameworks: Tailwind CSS, BootStrap, Material UI, Chakra UI

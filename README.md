@@ -20,7 +20,7 @@ Skills:
 - Back-end technologies: Node.js, Ruby on Rails, Nest.js, Laravel
 - Database technologies: MySQL, MongoDB, PostgreSQL
 - UI frameworks: Tailwind CSS, BootStrap, Material UI, Chakra UI
-- Version control systems: Git, SVN
+- Version control systems: Git, Bitbucket, SVN
 - Cloud services: AWS, Google Cloud Platform, Microsoft Azure
 
 I take a collaborative approach to project management, working closely with clients to understand their goals and delivering solutions that exceed their expectations.

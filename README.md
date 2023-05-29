@@ -15,7 +15,7 @@ My name is Alejandro and I'm a Senior Full Stack Developer with rich experience.
 Skills:
 
 - Front-end technologies: HTML, CSS, JavaScript, TypeScript
-- Front-end frameworks: React, Angular, Vue.js
+- Front-end frameworks: React, Angular, Vue.js, Alpine.js, Svelte
 - Mobile App technologies: React Native, Ionic (Angular, React, Vue), Flutter
 - Back-end technologies: Node.js, Ruby on Rails, Nest.js, Laravel
 - Database technologies: MySQL, MongoDB, PostgreSQL

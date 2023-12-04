@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/alejandro411">Alejandro M L</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/alejandro411">Fernando Mondragon Maytorena</a>'s Profile 👋</h1>
 </p>
 <div align=center>
    <img alt="gif" align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width=300 height=300>
@@ -9,21 +9,27 @@
        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=F72C9A&center=true&vCenter=true&width=1050&lines=Senior+full+stack+developer!;Detail+oriented+front-end+developer!;Eager+to+learn+new+technologies!" alt="Typing SVG" /></a>
     </h1>
 
-Greetings!
-My name is Alejandro and I'm a Senior Full Stack Developer with rich experience.
+✨ Summary
 
-Skills:
+Highly skilled and experienced Full Stack Engineer specializing in React, Node.js, Next.js, Tailwind CSS, Laravel, and Vue.js. With a proven track record of developing robust and scalable web applications, I am dedicated to delivering high-quality solutions that meet client objectives and exceed expectations. With a strong passion for clean code, user experience, and industry best practices, I strive to create innovative and efficient applications.
 
-- Front-end technologies: HTML, CSS, JavaScript, TypeScript
-- Front-end frameworks: React, Angular, Vue.js, Alpine.js, Gatsby.js, Svelte
-- Mobile App technologies: React Native, Ionic (Angular, React, Vue), Flutter
-- Back-end technologies: Node.js, Ruby on Rails, Nest.js, Laravel
-- Database technologies: MySQL, MongoDB, PostgreSQL
-- UI frameworks: Tailwind CSS, BootStrap, Material UI, Chakra UI
-- Version control systems: Git, Bitbucket, SVN
-- Cloud services: AWS, Google Cloud Platform, Microsoft Azure
+✨ Specialized Skills
 
-I take a collaborative approach to project management, working closely with clients to understand their goals and delivering solutions that exceed their expectations.
+→ React: Proficient in building dynamic and responsive user interfaces using React. Skilled in leveraging Next.js for server-side rendering and optimizing application performance.
+
+→ Node.js: Extensive experience with Node.js for developing efficient server-side applications. Proficient in using Express.js for building RESTful APIs and implementing GraphQL for efficient data retrieval.
+
+→ Laravel: Strong knowledge of Laravel for developing robust back-end solutions. Skilled in building RESTful APIs, implementing authentication systems, and leveraging Laravel's ORM for efficient database management.
+
+→ Vue.js: Proficient in building dynamic and interactive user interfaces using Vue.js. Experienced in component-based development and utilizing Vue Router for client-side routing.
+
+→ Tailwind CSS: Experienced in implementing UI/UX designs using Tailwind CSS. Proficient in leveraging the utility-first framework to create visually appealing and intuitive user interfaces.
+
+With expertise in these technologies, I have a strong foundation for developing end-to-end solutions. My ability to seamlessly integrate front-end and back-end components ensures smooth communication between server and client, resulting in high-quality web applications.
+
+As an experienced developer, I have strong communication skills and a proactive approach to upskilling, ensuring effective teamwork and integration of new technologies into projects.
+
+I'm open to new opportunities, so please feel free to contact me for your dream project.
 
 <img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
 
